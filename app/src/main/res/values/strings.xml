@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BankingApp</string>
+    <string name="accounts">Bank of Mona - ACCOUNTS</string>
+    <string name="account_name">Account Name</string>
+    <string name="_0_00">$0.00</string>
+</resources>
